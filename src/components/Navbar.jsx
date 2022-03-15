@@ -7,8 +7,9 @@ const Navbar = () => {
         <li className="hover:cursor-pointer ">About me</li>
         <li className="hover:cursor-pointer ">Skills</li>
         <li className="hover:cursor-pointer ">Portfolio</li>
+        <li className="hover:cursor-pointer ">Portfolio</li>
         <button className="bg-white  text-black rounded-[30px] font-bold text-[15px] flex items-center p-1.5 ">
-          CONTACT ME
+          CONTACT US
         </button>
       </ul>
     </div>
