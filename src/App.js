@@ -7,7 +7,6 @@ const App = () => {
     <div>
       <Navbar />
       <MainScreen />
-      <Navbar />
       <MainScreen />
     </div>
   );
